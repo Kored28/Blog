@@ -749,6 +749,10 @@ body .moon-icon{
 }
 
 @media screen and (min-width: 768px){
+    .close-menu-icon{
+        display:none;
+    }
+    
     .featured-content{
         grid-template-columns: repeat(4, 1fr);
         grid-template-rows: 5rem repeat(4, 1fr);
