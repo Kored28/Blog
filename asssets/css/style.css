@@ -156,7 +156,7 @@ body.light-theme{
     color: var(--light-color);
 }
 
-.close-menu-icon{
+.menu-toggle-icon .close-menu-icon{
     display: none;
 }
 
