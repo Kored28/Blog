@@ -800,6 +800,10 @@ body .moon-icon{
     .menu > .list{
         flex-direction: row;
     }
+    
+    .close-menu-icon{
+        display:none;
+    }
 
     .screen-lg-hidden{
         display: none;
