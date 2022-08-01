@@ -188,6 +188,7 @@ body .moon-icon{
 }
 
 .menu.activated{
+    position: absolute;
     box-shadow: 1px 1px 1px var(--transparent-light-color);
     opacity: 1;
     transform: scale(1);
