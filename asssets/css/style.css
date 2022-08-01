@@ -170,7 +170,7 @@ body.light-theme{
     color: var(--light-color);
 }
 
-.fa-moon{
+body .moon-icon{
     display: none;
 }
 
